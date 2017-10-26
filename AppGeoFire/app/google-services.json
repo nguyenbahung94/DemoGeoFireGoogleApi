@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "48347857271",
+    "firebase_url": "https://resplendent-torch-4567.firebaseio.com",
+    "project_id": "resplendent-torch-4567",
+    "storage_bucket": "resplendent-torch-4567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48347857271:android:d73d3332017fa180",
+        "android_client_info": {
+          "package_name": "com.example.nbhung.oderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48347857271-r5vrem4i3ldnfap778lcnc57bl7jsasm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nbhung.oderfood",
+            "certificate_hash": "74dbc8e35db594bf8d026903e26be779bfe86ecb"
+          }
+        },
+        {
+          "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-l1oXZpA_e82f2rnNQX8lpJ2ZoL9-T0U"
+        },
+        {
+          "current_key": "AIzaSyCL08ESeKE38Xlttyevlvr2zdsFvQmyg0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48347857271:android:087555959081e57d",
+        "android_client_info": {
+          "package_name": "com.example.nbhung.appfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48347857271-dbj8spor0605hjd1nh8q8qmitghcnp7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nbhung.appfood",
+            "certificate_hash": "74dbc8e35db594bf8d026903e26be779bfe86ecb"
+          }
+        },
+        {
+          "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-l1oXZpA_e82f2rnNQX8lpJ2ZoL9-T0U"
+        },
+        {
+          "current_key": "AIzaSyCL08ESeKE38Xlttyevlvr2zdsFvQmyg0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48347857271:android:9e8bb3ed65f89f09",
+        "android_client_info": {
+          "package_name": "com.suong.employeetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48347857271-cjnosl6qti2bqs8ttm9r13bstqu1dqo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suong.employeetracker",
+            "certificate_hash": "7659a7abb4406512374aeb24889dbfd3de5f9ecf"
+          }
+        },
+        {
+          "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-l1oXZpA_e82f2rnNQX8lpJ2ZoL9-T0U"
+        },
+        {
+          "current_key": "AIzaSyCL08ESeKE38Xlttyevlvr2zdsFvQmyg0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48347857271:android:24751c9ccd0327f2",
+        "android_client_info": {
+          "package_name": "com.example.nbhung.appgeofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48347857271-klt1duuldi62gjc0b3fo07g655js6t3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nbhung.appgeofire",
+            "certificate_hash": "9c68edf7a3fd0bd8ff13fa110856dfc556e8a417"
+          }
+        },
+        {
+          "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-l1oXZpA_e82f2rnNQX8lpJ2ZoL9-T0U"
+        },
+        {
+          "current_key": "AIzaSyCL08ESeKE38Xlttyevlvr2zdsFvQmyg0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48347857271-gjduouh0kgt739vi7ri76u6he1p0k3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
